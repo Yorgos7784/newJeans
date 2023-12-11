@@ -10,7 +10,7 @@ export default function Footer() {
               href="/"
               className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900"
             >
-              <span className="ml-3 text-xl">테드창 포트폴리오</span>
+              <span className="ml-3 text-xl">New Jeans</span>
             </Link>
             <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">
               © 2020 Tailblocks —

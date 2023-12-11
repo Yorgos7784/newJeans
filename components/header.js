@@ -22,20 +22,20 @@ export default function Header() {
             >
               <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
             </svg>
-            <span className="ml-3 text-xl">테드창 포트폴리오</span>
+            <span className="ml-3 text-xl">New Jeans</span>
           </Link>
           <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
             <Link href="/" className="mr-5 hover:text-gray-900">
               홈
             </Link>
             <Link href="/projects" className="mr-5 hover:text-gray-900">
-              프로젝트
+              노래
             </Link>
             <Link
-              href="https://youtu.be/Km71Rr9K-Bw?si=C1EsLoHFIuwiMIHv"
+              href="https://namu.wiki/w/NewJeans"
               className="mr-5 hover:text-gray-900"
             >
-              연락하기
+              상세정보
             </Link>
           </nav>
           <DarkModeToggleButton />
