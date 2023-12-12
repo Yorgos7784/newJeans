@@ -18,7 +18,6 @@ export default function ProjectItem({ data }) {
           width={100}
           height={60}
           layout="responsive"
-          objectFit="cover"
           quality={100}
         ></Image>
       </a>
